@@ -1,12 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.14)  14 NOV 2022 21:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.14)  15 NOV 2022 09:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"Show, Attend and Distill: Knowledge Distillation via Attention-based Feature
- Matching.tex"
-
-(./Show, Attend and Distill: Knowledge Distillation via Attention-based Feature
- Matching.tex
+**paper.tex
+(./paper.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-04-10>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -120,11 +117,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count271
 \l__pdf_internal_box=\box52
-)
-(./Show, Attend and Distill: Knowledge Distillation via Attention-based Feature
- Matching.aux)
-\openout1 = `"Show, Attend and Distill: Knowledge Distillation via Attention-ba
-sed Feature Matching.aux"'.
+) (./paper.aux)
+\openout1 = `paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -140,7 +134,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count272
 \scratchdimen=\dimen150
@@ -212,21 +207,19 @@ LaTeX Warning: Citation `transformer' on page 3 undefined on input line 65.
 
 LaTeX Warning: Citation `atts' on page 3 undefined on input line 73.
 
-[3 <./figure/Figure2_intensity.png>]
-(./Show, Attend and Distill: Knowledge Distillation via Attention-based Feature
- Matching.aux)
+[3 <./figure/Figure2_intensity.png>] (./paper.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2135 strings out of 478238
- 33647 string characters out of 5850455
- 332432 words of memory out of 5000000
- 20370 multiletter control sequences out of 15000+600000
+ 2134 strings out of 478238
+ 32662 string characters out of 5850455
+ 332268 words of memory out of 5000000
+ 20369 multiletter control sequences out of 15000+600000
  478087 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,62p,954b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,10n,62p,872b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -240,8 +233,7 @@ sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
 onts/symbols/msbm10.pfb>
-Output written on "Show, Attend and Distill: Knowledge Distillation via Attenti
-on-based Feature Matching.pdf" (3 pages, 283277 bytes).
+Output written on paper.pdf (3 pages, 283338 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
